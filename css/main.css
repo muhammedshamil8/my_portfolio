@@ -419,7 +419,9 @@ form,
 .ss-custom-select {
   margin-bottom: 3rem;
 }
-
+textarea{
+  max-width: 707px !important;
+}
 /**
  * floated image - (_document-setup.scss)  
  * -------------------------------------------------------------------
