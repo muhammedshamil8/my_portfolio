@@ -1613,10 +1613,10 @@ header .logo a {
   margin-left: -30px;
 }
 .intro-info img {
-  height: 12rem;
-  width: 12rem;
+  height: 16rem;
+  width: 16rem;
   border-radius: 50%;
-  margin: 0.9rem 0 0 0;
+  margin: 0rem 0 0 0;
   float: left;
 }
 .intro-info .lead {
@@ -1686,8 +1686,8 @@ header .logo a {
 }
 @media only screen and (max-width: 768px) {
   .intro-info img {
-    height: 9.8rem;
-    width: 9.8rem;
+    height: 16rem;
+    width: 16rem;
   }
   .intro-info .lead {
     padding-left: 11rem;
@@ -1713,8 +1713,8 @@ header .logo a {
     margin-top: 3rem;
   }
   .intro-info img {
-    height: 8.6rem;
-    width: 8.6rem;
+    height: 15rem;
+    width: 15rem;
     float: none;
     display: inline-block;
   }
